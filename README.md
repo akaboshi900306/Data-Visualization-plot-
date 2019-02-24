@@ -1,0 +1,6 @@
+# Data-Visualization-plot-
+The picture is created by ggplot2 in R. I want to focus on the main reasons of flight delays by different carriers from year 2003 to 2017. The x-axis stands for different carriers around US and the y-axis represents the sum of numbers of cases from 2003 to 2017. Through the graph, we can see that there is a strong gap between different carriers in flights and flight delay. However, they share some similarities in the causes of delay. Firstly, I try to filter the causes which accounts for over 35% of the total flight delays and are over 250000 cases in individual carrier. In brief, the arriving late of aircraft and the national aviation system delay occupied the two main reasons of the flight delay of carriers. Accordingly, most ratio of these two  causes were above 35%. Also, we can conclude from the graph that the security delay as well as weather delay has fewer proportion in the flight delay, even for the carriers with most flights which means the security condition and the bad weather has little influence over the delay of flights.  The comparison between the yellow and the blue color could attract the attention in the graph and the Stacked Bar Charts were vivid to show all cases of the flight delay. 
+
+
+
+
